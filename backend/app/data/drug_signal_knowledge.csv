@@ -1,0 +1,501 @@
+source_id,title,drug,symptom,snippet
+AE-10000,Adverse Event Report: Omeprazole & Hypoglycemia,Omeprazole,Hypoglycemia,Patient taking Omeprazole reported Hypoglycemia after 6 days of treatment. 
+AE-10001,Adverse Event Report: Atorvastatin & Coughed up blood,Atorvastatin,Coughed up blood,Patient taking Atorvastatin reported Coughed up blood after 2 days of treatment. Patient also experienced Dizziness.
+AE-10002,Adverse Event Report: Warfarin & Rash,Warfarin,Rash,Patient taking Warfarin reported Rash after 8 days of treatment. 
+AE-10003,Adverse Event Report: Ibuprofen & Hypoglycemia,Ibuprofen,Hypoglycemia,Patient taking Ibuprofen reported Hypoglycemia after 10 days of treatment. 
+AE-10004,Adverse Event Report: Atorvastatin & Nausea,Atorvastatin,Nausea,Patient taking Atorvastatin reported Nausea after 4 days of treatment. 
+AE-10005,Adverse Event Report: Atorvastatin & Coughed up blood,Atorvastatin,Coughed up blood,Patient taking Atorvastatin reported Coughed up blood after 11 days of treatment. 
+AE-10006,Adverse Event Report: Metformin & Coughed up blood,Metformin,Coughed up blood,Patient taking Metformin reported Coughed up blood after 9 days of treatment. 
+AE-10007,Adverse Event Report: Amoxicillin & Coughed up blood,Amoxicillin,Coughed up blood,Patient taking Amoxicillin reported Coughed up blood after 3 days of treatment. 
+AE-10008,Adverse Event Report: Warfarin & Dizziness,Warfarin,Dizziness,Patient taking Warfarin reported Dizziness after 4 days of treatment. 
+AE-10009,Adverse Event Report: Omeprazole & Coughed up blood,Omeprazole,Coughed up blood,Patient taking Omeprazole reported Coughed up blood after 12 days of treatment. 
+AE-10010,Adverse Event Report: Omeprazole & Dizziness,Omeprazole,Dizziness,Patient taking Omeprazole reported Dizziness after 10 days of treatment. 
+AE-10011,Adverse Event Report: Amoxicillin & Rash,Amoxicillin,Rash,Patient taking Amoxicillin reported Rash after 9 days of treatment. 
+AE-10012,Adverse Event Report: Amoxicillin & Dizziness,Amoxicillin,Dizziness,Patient taking Amoxicillin reported Dizziness after 10 days of treatment. 
+AE-10013,Adverse Event Report: Ibuprofen & Spontaneous bleeding,Ibuprofen,Spontaneous bleeding,Patient taking Ibuprofen reported Spontaneous bleeding after 7 days of treatment. 
+AE-10014,Adverse Event Report: Amoxicillin & Coughed up blood,Amoxicillin,Coughed up blood,Patient taking Amoxicillin reported Coughed up blood after 4 days of treatment. Patient also experienced Hypoglycemia.
+AE-10015,Adverse Event Report: Amoxicillin & Spontaneous bleeding,Amoxicillin,Spontaneous bleeding,Patient taking Amoxicillin reported Spontaneous bleeding after 6 days of treatment. 
+AE-10016,Adverse Event Report: Warfarin & Fatigue,Warfarin,Fatigue,Patient taking Warfarin reported Fatigue after 8 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10017,Adverse Event Report: Lisinopril & Hypoglycemia,Lisinopril,Hypoglycemia,Patient taking Lisinopril reported Hypoglycemia after 13 days of treatment. 
+AE-10018,Adverse Event Report: Warfarin & Rash,Warfarin,Rash,Patient taking Warfarin reported Rash after 4 days of treatment. Patient also experienced Hypoglycemia.
+AE-10019,Adverse Event Report: Omeprazole & Dizziness,Omeprazole,Dizziness,Patient taking Omeprazole reported Dizziness after 13 days of treatment. 
+AE-10020,Adverse Event Report: Amoxicillin & Rash,Amoxicillin,Rash,Patient taking Amoxicillin reported Rash after 9 days of treatment. 
+AE-10021,Adverse Event Report: Ibuprofen & Dizziness,Ibuprofen,Dizziness,Patient taking Ibuprofen reported Dizziness after 5 days of treatment. 
+AE-10022,Adverse Event Report: Metformin & Nausea,Metformin,Nausea,Patient taking Metformin reported Nausea after 4 days of treatment. Patient also experienced Hypoglycemia.
+AE-10023,Adverse Event Report: Atorvastatin & Rash,Atorvastatin,Rash,Patient taking Atorvastatin reported Rash after 1 days of treatment. 
+AE-10024,Adverse Event Report: Lisinopril & Nausea,Lisinopril,Nausea,Patient taking Lisinopril reported Nausea after 5 days of treatment. 
+AE-10025,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 9 days of treatment. 
+AE-10026,Adverse Event Report: Metformin & Hypoglycemia,Metformin,Hypoglycemia,Patient taking Metformin reported Hypoglycemia after 12 days of treatment. Patient also experienced Dizziness.
+AE-10027,Adverse Event Report: Ibuprofen & Fatigue,Ibuprofen,Fatigue,Patient taking Ibuprofen reported Fatigue after 8 days of treatment. 
+AE-10028,Adverse Event Report: Warfarin & Fatigue,Warfarin,Fatigue,Patient taking Warfarin reported Fatigue after 14 days of treatment. 
+AE-10029,Adverse Event Report: Metformin & Dizziness,Metformin,Dizziness,Patient taking Metformin reported Dizziness after 10 days of treatment. 
+AE-10030,Adverse Event Report: Metformin & Fatigue,Metformin,Fatigue,Patient taking Metformin reported Fatigue after 4 days of treatment. 
+AE-10031,Adverse Event Report: Ibuprofen & Fatigue,Ibuprofen,Fatigue,Patient taking Ibuprofen reported Fatigue after 3 days of treatment. 
+AE-10032,Adverse Event Report: Metformin & Rash,Metformin,Rash,Patient taking Metformin reported Rash after 9 days of treatment. Patient also experienced Hypoglycemia.
+AE-10033,Adverse Event Report: Ibuprofen & Coughed up blood,Ibuprofen,Coughed up blood,Patient taking Ibuprofen reported Coughed up blood after 1 days of treatment. 
+AE-10034,Adverse Event Report: Warfarin & Nausea,Warfarin,Nausea,Patient taking Warfarin reported Nausea after 7 days of treatment. 
+AE-10035,Adverse Event Report: Atorvastatin & Fatigue,Atorvastatin,Fatigue,Patient taking Atorvastatin reported Fatigue after 11 days of treatment. 
+AE-10036,Adverse Event Report: Omeprazole & Rash,Omeprazole,Rash,Patient taking Omeprazole reported Rash after 2 days of treatment. 
+AE-10037,Adverse Event Report: Ibuprofen & Nausea,Ibuprofen,Nausea,Patient taking Ibuprofen reported Nausea after 12 days of treatment. 
+AE-10038,Adverse Event Report: Warfarin & Spontaneous bleeding,Warfarin,Spontaneous bleeding,Patient taking Warfarin reported Spontaneous bleeding after 13 days of treatment. 
+AE-10039,Adverse Event Report: Warfarin & Coughed up blood,Warfarin,Coughed up blood,Patient taking Warfarin reported Coughed up blood after 13 days of treatment. 
+AE-10040,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 8 days of treatment. 
+AE-10041,Adverse Event Report: Omeprazole & Dizziness,Omeprazole,Dizziness,Patient taking Omeprazole reported Dizziness after 1 days of treatment. Patient also experienced Hypoglycemia.
+AE-10042,Adverse Event Report: Lisinopril & Hypoglycemia,Lisinopril,Hypoglycemia,Patient taking Lisinopril reported Hypoglycemia after 13 days of treatment. 
+AE-10043,Adverse Event Report: Atorvastatin & Dizziness,Atorvastatin,Dizziness,Patient taking Atorvastatin reported Dizziness after 8 days of treatment. 
+AE-10044,Adverse Event Report: Atorvastatin & Spontaneous bleeding,Atorvastatin,Spontaneous bleeding,Patient taking Atorvastatin reported Spontaneous bleeding after 9 days of treatment. Patient also experienced Nausea.
+AE-10045,Adverse Event Report: Lisinopril & Coughed up blood,Lisinopril,Coughed up blood,Patient taking Lisinopril reported Coughed up blood after 3 days of treatment. 
+AE-10046,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 13 days of treatment. 
+AE-10047,Adverse Event Report: Warfarin & Rash,Warfarin,Rash,Patient taking Warfarin reported Rash after 3 days of treatment. 
+AE-10048,Adverse Event Report: Lisinopril & Spontaneous bleeding,Lisinopril,Spontaneous bleeding,Patient taking Lisinopril reported Spontaneous bleeding after 9 days of treatment. 
+AE-10049,Adverse Event Report: Warfarin & Coughed up blood,Warfarin,Coughed up blood,Patient taking Warfarin reported Coughed up blood after 11 days of treatment. 
+AE-10050,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 7 days of treatment. Patient also experienced Coughed up blood.
+AE-10051,Adverse Event Report: Atorvastatin & Dizziness,Atorvastatin,Dizziness,Patient taking Atorvastatin reported Dizziness after 14 days of treatment. 
+AE-10052,Adverse Event Report: Omeprazole & Coughed up blood,Omeprazole,Coughed up blood,Patient taking Omeprazole reported Coughed up blood after 5 days of treatment. 
+AE-10053,Adverse Event Report: Metformin & Dizziness,Metformin,Dizziness,Patient taking Metformin reported Dizziness after 3 days of treatment. 
+AE-10054,Adverse Event Report: Warfarin & Hypoglycemia,Warfarin,Hypoglycemia,Patient taking Warfarin reported Hypoglycemia after 6 days of treatment. 
+AE-10055,Adverse Event Report: Omeprazole & Hypoglycemia,Omeprazole,Hypoglycemia,Patient taking Omeprazole reported Hypoglycemia after 3 days of treatment. 
+AE-10056,Adverse Event Report: Warfarin & Coughed up blood,Warfarin,Coughed up blood,Patient taking Warfarin reported Coughed up blood after 1 days of treatment. Patient also experienced Dizziness.
+AE-10057,Adverse Event Report: Metformin & Hypoglycemia,Metformin,Hypoglycemia,Patient taking Metformin reported Hypoglycemia after 6 days of treatment. 
+AE-10058,Adverse Event Report: Ibuprofen & Spontaneous bleeding,Ibuprofen,Spontaneous bleeding,Patient taking Ibuprofen reported Spontaneous bleeding after 3 days of treatment. 
+AE-10059,Adverse Event Report: Amoxicillin & Spontaneous bleeding,Amoxicillin,Spontaneous bleeding,Patient taking Amoxicillin reported Spontaneous bleeding after 5 days of treatment. 
+AE-10060,Adverse Event Report: Warfarin & Fatigue,Warfarin,Fatigue,Patient taking Warfarin reported Fatigue after 6 days of treatment. 
+AE-10061,Adverse Event Report: Omeprazole & Coughed up blood,Omeprazole,Coughed up blood,Patient taking Omeprazole reported Coughed up blood after 12 days of treatment. 
+AE-10062,Adverse Event Report: Warfarin & Spontaneous bleeding,Warfarin,Spontaneous bleeding,Patient taking Warfarin reported Spontaneous bleeding after 11 days of treatment. Patient also experienced Coughed up blood.
+AE-10063,Adverse Event Report: Amoxicillin & Fatigue,Amoxicillin,Fatigue,Patient taking Amoxicillin reported Fatigue after 3 days of treatment. Patient also experienced Hypoglycemia.
+AE-10064,Adverse Event Report: Lisinopril & Nausea,Lisinopril,Nausea,Patient taking Lisinopril reported Nausea after 5 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10065,Adverse Event Report: Metformin & Hypoglycemia,Metformin,Hypoglycemia,Patient taking Metformin reported Hypoglycemia after 7 days of treatment. 
+AE-10066,Adverse Event Report: Amoxicillin & Dizziness,Amoxicillin,Dizziness,Patient taking Amoxicillin reported Dizziness after 9 days of treatment. Patient also experienced Rash.
+AE-10067,Adverse Event Report: Atorvastatin & Rash,Atorvastatin,Rash,Patient taking Atorvastatin reported Rash after 12 days of treatment. 
+AE-10068,Adverse Event Report: Warfarin & Dizziness,Warfarin,Dizziness,Patient taking Warfarin reported Dizziness after 9 days of treatment. 
+AE-10069,Adverse Event Report: Omeprazole & Rash,Omeprazole,Rash,Patient taking Omeprazole reported Rash after 10 days of treatment. Patient also experienced Fatigue.
+AE-10070,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 2 days of treatment. 
+AE-10071,Adverse Event Report: Metformin & Dizziness,Metformin,Dizziness,Patient taking Metformin reported Dizziness after 1 days of treatment. 
+AE-10072,Adverse Event Report: Ibuprofen & Fatigue,Ibuprofen,Fatigue,Patient taking Ibuprofen reported Fatigue after 5 days of treatment. 
+AE-10073,Adverse Event Report: Warfarin & Coughed up blood,Warfarin,Coughed up blood,Patient taking Warfarin reported Coughed up blood after 13 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10074,Adverse Event Report: Omeprazole & Rash,Omeprazole,Rash,Patient taking Omeprazole reported Rash after 5 days of treatment. 
+AE-10075,Adverse Event Report: Omeprazole & Nausea,Omeprazole,Nausea,Patient taking Omeprazole reported Nausea after 9 days of treatment. Patient also experienced Dizziness.
+AE-10076,Adverse Event Report: Lisinopril & Nausea,Lisinopril,Nausea,Patient taking Lisinopril reported Nausea after 6 days of treatment. 
+AE-10077,Adverse Event Report: Metformin & Coughed up blood,Metformin,Coughed up blood,Patient taking Metformin reported Coughed up blood after 4 days of treatment. 
+AE-10078,Adverse Event Report: Warfarin & Rash,Warfarin,Rash,Patient taking Warfarin reported Rash after 7 days of treatment. 
+AE-10079,Adverse Event Report: Atorvastatin & Rash,Atorvastatin,Rash,Patient taking Atorvastatin reported Rash after 5 days of treatment. 
+AE-10080,Adverse Event Report: Omeprazole & Dizziness,Omeprazole,Dizziness,Patient taking Omeprazole reported Dizziness after 4 days of treatment. 
+AE-10081,Adverse Event Report: Ibuprofen & Dizziness,Ibuprofen,Dizziness,Patient taking Ibuprofen reported Dizziness after 9 days of treatment. 
+AE-10082,Adverse Event Report: Ibuprofen & Rash,Ibuprofen,Rash,Patient taking Ibuprofen reported Rash after 12 days of treatment. 
+AE-10083,Adverse Event Report: Omeprazole & Nausea,Omeprazole,Nausea,Patient taking Omeprazole reported Nausea after 6 days of treatment. 
+AE-10084,Adverse Event Report: Amoxicillin & Dizziness,Amoxicillin,Dizziness,Patient taking Amoxicillin reported Dizziness after 8 days of treatment. 
+AE-10085,Adverse Event Report: Atorvastatin & Hypoglycemia,Atorvastatin,Hypoglycemia,Patient taking Atorvastatin reported Hypoglycemia after 8 days of treatment. 
+AE-10086,Adverse Event Report: Omeprazole & Rash,Omeprazole,Rash,Patient taking Omeprazole reported Rash after 12 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10087,Adverse Event Report: Amoxicillin & Fatigue,Amoxicillin,Fatigue,Patient taking Amoxicillin reported Fatigue after 4 days of treatment. Patient also experienced Dizziness.
+AE-10088,Adverse Event Report: Omeprazole & Nausea,Omeprazole,Nausea,Patient taking Omeprazole reported Nausea after 12 days of treatment. 
+AE-10089,Adverse Event Report: Lisinopril & Nausea,Lisinopril,Nausea,Patient taking Lisinopril reported Nausea after 9 days of treatment. 
+AE-10090,Adverse Event Report: Ibuprofen & Rash,Ibuprofen,Rash,Patient taking Ibuprofen reported Rash after 3 days of treatment. 
+AE-10091,Adverse Event Report: Atorvastatin & Coughed up blood,Atorvastatin,Coughed up blood,Patient taking Atorvastatin reported Coughed up blood after 13 days of treatment. 
+AE-10092,Adverse Event Report: Omeprazole & Coughed up blood,Omeprazole,Coughed up blood,Patient taking Omeprazole reported Coughed up blood after 12 days of treatment. 
+AE-10093,Adverse Event Report: Warfarin & Fatigue,Warfarin,Fatigue,Patient taking Warfarin reported Fatigue after 7 days of treatment. 
+AE-10094,Adverse Event Report: Metformin & Nausea,Metformin,Nausea,Patient taking Metformin reported Nausea after 5 days of treatment. 
+AE-10095,Adverse Event Report: Ibuprofen & Rash,Ibuprofen,Rash,Patient taking Ibuprofen reported Rash after 2 days of treatment. 
+AE-10096,Adverse Event Report: Omeprazole & Fatigue,Omeprazole,Fatigue,Patient taking Omeprazole reported Fatigue after 12 days of treatment. Patient also experienced Rash.
+AE-10097,Adverse Event Report: Warfarin & Hypoglycemia,Warfarin,Hypoglycemia,Patient taking Warfarin reported Hypoglycemia after 4 days of treatment. 
+AE-10098,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 10 days of treatment. Patient also experienced Coughed up blood.
+AE-10099,Adverse Event Report: Atorvastatin & Nausea,Atorvastatin,Nausea,Patient taking Atorvastatin reported Nausea after 3 days of treatment. 
+AE-10100,Adverse Event Report: Omeprazole & Coughed up blood,Omeprazole,Coughed up blood,Patient taking Omeprazole reported Coughed up blood after 11 days of treatment. 
+AE-10101,Adverse Event Report: Warfarin & Fatigue,Warfarin,Fatigue,Patient taking Warfarin reported Fatigue after 7 days of treatment. Patient also experienced Dizziness.
+AE-10102,Adverse Event Report: Amoxicillin & Dizziness,Amoxicillin,Dizziness,Patient taking Amoxicillin reported Dizziness after 8 days of treatment. 
+AE-10103,Adverse Event Report: Amoxicillin & Spontaneous bleeding,Amoxicillin,Spontaneous bleeding,Patient taking Amoxicillin reported Spontaneous bleeding after 8 days of treatment. 
+AE-10104,Adverse Event Report: Metformin & Coughed up blood,Metformin,Coughed up blood,Patient taking Metformin reported Coughed up blood after 4 days of treatment. 
+AE-10105,Adverse Event Report: Amoxicillin & Dizziness,Amoxicillin,Dizziness,Patient taking Amoxicillin reported Dizziness after 5 days of treatment. 
+AE-10106,Adverse Event Report: Omeprazole & Coughed up blood,Omeprazole,Coughed up blood,Patient taking Omeprazole reported Coughed up blood after 11 days of treatment. Patient also experienced Fatigue.
+AE-10107,Adverse Event Report: Atorvastatin & Fatigue,Atorvastatin,Fatigue,Patient taking Atorvastatin reported Fatigue after 11 days of treatment. Patient also experienced Hypoglycemia.
+AE-10108,Adverse Event Report: Amoxicillin & Dizziness,Amoxicillin,Dizziness,Patient taking Amoxicillin reported Dizziness after 4 days of treatment. Patient also experienced Fatigue.
+AE-10109,Adverse Event Report: Metformin & Nausea,Metformin,Nausea,Patient taking Metformin reported Nausea after 14 days of treatment. 
+AE-10110,Adverse Event Report: Atorvastatin & Nausea,Atorvastatin,Nausea,Patient taking Atorvastatin reported Nausea after 3 days of treatment. Patient also experienced Rash.
+AE-10111,Adverse Event Report: Amoxicillin & Hypoglycemia,Amoxicillin,Hypoglycemia,Patient taking Amoxicillin reported Hypoglycemia after 11 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10112,Adverse Event Report: Omeprazole & Fatigue,Omeprazole,Fatigue,Patient taking Omeprazole reported Fatigue after 6 days of treatment. 
+AE-10113,Adverse Event Report: Atorvastatin & Spontaneous bleeding,Atorvastatin,Spontaneous bleeding,Patient taking Atorvastatin reported Spontaneous bleeding after 14 days of treatment. 
+AE-10114,Adverse Event Report: Atorvastatin & Rash,Atorvastatin,Rash,Patient taking Atorvastatin reported Rash after 5 days of treatment. 
+AE-10115,Adverse Event Report: Amoxicillin & Rash,Amoxicillin,Rash,Patient taking Amoxicillin reported Rash after 4 days of treatment. 
+AE-10116,Adverse Event Report: Atorvastatin & Dizziness,Atorvastatin,Dizziness,Patient taking Atorvastatin reported Dizziness after 9 days of treatment. Patient also experienced Coughed up blood.
+AE-10117,Adverse Event Report: Ibuprofen & Hypoglycemia,Ibuprofen,Hypoglycemia,Patient taking Ibuprofen reported Hypoglycemia after 10 days of treatment. 
+AE-10118,Adverse Event Report: Warfarin & Nausea,Warfarin,Nausea,Patient taking Warfarin reported Nausea after 13 days of treatment. 
+AE-10119,Adverse Event Report: Amoxicillin & Spontaneous bleeding,Amoxicillin,Spontaneous bleeding,Patient taking Amoxicillin reported Spontaneous bleeding after 11 days of treatment. 
+AE-10120,Adverse Event Report: Omeprazole & Nausea,Omeprazole,Nausea,Patient taking Omeprazole reported Nausea after 2 days of treatment. 
+AE-10121,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 3 days of treatment. 
+AE-10122,Adverse Event Report: Omeprazole & Fatigue,Omeprazole,Fatigue,Patient taking Omeprazole reported Fatigue after 12 days of treatment. 
+AE-10123,Adverse Event Report: Metformin & Rash,Metformin,Rash,Patient taking Metformin reported Rash after 7 days of treatment. Patient also experienced Dizziness.
+AE-10124,Adverse Event Report: Omeprazole & Rash,Omeprazole,Rash,Patient taking Omeprazole reported Rash after 10 days of treatment. 
+AE-10125,Adverse Event Report: Amoxicillin & Spontaneous bleeding,Amoxicillin,Spontaneous bleeding,Patient taking Amoxicillin reported Spontaneous bleeding after 9 days of treatment. Patient also experienced Hypoglycemia.
+AE-10126,Adverse Event Report: Warfarin & Spontaneous bleeding,Warfarin,Spontaneous bleeding,Patient taking Warfarin reported Spontaneous bleeding after 5 days of treatment. 
+AE-10127,Adverse Event Report: Ibuprofen & Coughed up blood,Ibuprofen,Coughed up blood,Patient taking Ibuprofen reported Coughed up blood after 4 days of treatment. 
+AE-10128,Adverse Event Report: Amoxicillin & Hypoglycemia,Amoxicillin,Hypoglycemia,Patient taking Amoxicillin reported Hypoglycemia after 6 days of treatment. 
+AE-10129,Adverse Event Report: Warfarin & Spontaneous bleeding,Warfarin,Spontaneous bleeding,Patient taking Warfarin reported Spontaneous bleeding after 6 days of treatment. Patient also experienced Hypoglycemia.
+AE-10130,Adverse Event Report: Warfarin & Dizziness,Warfarin,Dizziness,Patient taking Warfarin reported Dizziness after 10 days of treatment. 
+AE-10131,Adverse Event Report: Atorvastatin & Rash,Atorvastatin,Rash,Patient taking Atorvastatin reported Rash after 8 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10132,Adverse Event Report: Warfarin & Nausea,Warfarin,Nausea,Patient taking Warfarin reported Nausea after 4 days of treatment. 
+AE-10133,Adverse Event Report: Warfarin & Coughed up blood,Warfarin,Coughed up blood,Patient taking Warfarin reported Coughed up blood after 3 days of treatment. Patient also experienced Fatigue.
+AE-10134,Adverse Event Report: Amoxicillin & Nausea,Amoxicillin,Nausea,Patient taking Amoxicillin reported Nausea after 14 days of treatment. Patient also experienced Coughed up blood.
+AE-10135,Adverse Event Report: Metformin & Spontaneous bleeding,Metformin,Spontaneous bleeding,Patient taking Metformin reported Spontaneous bleeding after 8 days of treatment. 
+AE-10136,Adverse Event Report: Omeprazole & Coughed up blood,Omeprazole,Coughed up blood,Patient taking Omeprazole reported Coughed up blood after 9 days of treatment. 
+AE-10137,Adverse Event Report: Ibuprofen & Rash,Ibuprofen,Rash,Patient taking Ibuprofen reported Rash after 6 days of treatment. 
+AE-10138,Adverse Event Report: Atorvastatin & Coughed up blood,Atorvastatin,Coughed up blood,Patient taking Atorvastatin reported Coughed up blood after 7 days of treatment. 
+AE-10139,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 14 days of treatment. Patient also experienced Fatigue.
+AE-10140,Adverse Event Report: Amoxicillin & Coughed up blood,Amoxicillin,Coughed up blood,Patient taking Amoxicillin reported Coughed up blood after 2 days of treatment. Patient also experienced Dizziness.
+AE-10141,Adverse Event Report: Metformin & Dizziness,Metformin,Dizziness,Patient taking Metformin reported Dizziness after 8 days of treatment. Patient also experienced Hypoglycemia.
+AE-10142,Adverse Event Report: Omeprazole & Coughed up blood,Omeprazole,Coughed up blood,Patient taking Omeprazole reported Coughed up blood after 12 days of treatment. Patient also experienced Dizziness.
+AE-10143,Adverse Event Report: Metformin & Dizziness,Metformin,Dizziness,Patient taking Metformin reported Dizziness after 13 days of treatment. 
+AE-10144,Adverse Event Report: Metformin & Dizziness,Metformin,Dizziness,Patient taking Metformin reported Dizziness after 10 days of treatment. 
+AE-10145,Adverse Event Report: Atorvastatin & Nausea,Atorvastatin,Nausea,Patient taking Atorvastatin reported Nausea after 11 days of treatment. 
+AE-10146,Adverse Event Report: Ibuprofen & Coughed up blood,Ibuprofen,Coughed up blood,Patient taking Ibuprofen reported Coughed up blood after 3 days of treatment. 
+AE-10147,Adverse Event Report: Omeprazole & Fatigue,Omeprazole,Fatigue,Patient taking Omeprazole reported Fatigue after 12 days of treatment. 
+AE-10148,Adverse Event Report: Metformin & Nausea,Metformin,Nausea,Patient taking Metformin reported Nausea after 4 days of treatment. 
+AE-10149,Adverse Event Report: Ibuprofen & Coughed up blood,Ibuprofen,Coughed up blood,Patient taking Ibuprofen reported Coughed up blood after 5 days of treatment. 
+AE-10150,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 1 days of treatment. 
+AE-10151,Adverse Event Report: Omeprazole & Hypoglycemia,Omeprazole,Hypoglycemia,Patient taking Omeprazole reported Hypoglycemia after 13 days of treatment. Patient also experienced Nausea.
+AE-10152,Adverse Event Report: Ibuprofen & Hypoglycemia,Ibuprofen,Hypoglycemia,Patient taking Ibuprofen reported Hypoglycemia after 11 days of treatment. 
+AE-10153,Adverse Event Report: Metformin & Rash,Metformin,Rash,Patient taking Metformin reported Rash after 14 days of treatment. Patient also experienced Coughed up blood.
+AE-10154,Adverse Event Report: Metformin & Spontaneous bleeding,Metformin,Spontaneous bleeding,Patient taking Metformin reported Spontaneous bleeding after 5 days of treatment. 
+AE-10155,Adverse Event Report: Metformin & Fatigue,Metformin,Fatigue,Patient taking Metformin reported Fatigue after 2 days of treatment. 
+AE-10156,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 1 days of treatment. 
+AE-10157,Adverse Event Report: Metformin & Rash,Metformin,Rash,Patient taking Metformin reported Rash after 8 days of treatment. Patient also experienced Nausea.
+AE-10158,Adverse Event Report: Metformin & Fatigue,Metformin,Fatigue,Patient taking Metformin reported Fatigue after 8 days of treatment. 
+AE-10159,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 7 days of treatment. 
+AE-10160,Adverse Event Report: Metformin & Nausea,Metformin,Nausea,Patient taking Metformin reported Nausea after 14 days of treatment. 
+AE-10161,Adverse Event Report: Lisinopril & Coughed up blood,Lisinopril,Coughed up blood,Patient taking Lisinopril reported Coughed up blood after 11 days of treatment. Patient also experienced Nausea.
+AE-10162,Adverse Event Report: Amoxicillin & Fatigue,Amoxicillin,Fatigue,Patient taking Amoxicillin reported Fatigue after 5 days of treatment. 
+AE-10163,Adverse Event Report: Metformin & Dizziness,Metformin,Dizziness,Patient taking Metformin reported Dizziness after 6 days of treatment. 
+AE-10164,Adverse Event Report: Metformin & Hypoglycemia,Metformin,Hypoglycemia,Patient taking Metformin reported Hypoglycemia after 10 days of treatment. Patient also experienced Rash.
+AE-10165,Adverse Event Report: Omeprazole & Dizziness,Omeprazole,Dizziness,Patient taking Omeprazole reported Dizziness after 7 days of treatment. 
+AE-10166,Adverse Event Report: Ibuprofen & Nausea,Ibuprofen,Nausea,Patient taking Ibuprofen reported Nausea after 6 days of treatment. 
+AE-10167,Adverse Event Report: Metformin & Hypoglycemia,Metformin,Hypoglycemia,Patient taking Metformin reported Hypoglycemia after 7 days of treatment. 
+AE-10168,Adverse Event Report: Atorvastatin & Hypoglycemia,Atorvastatin,Hypoglycemia,Patient taking Atorvastatin reported Hypoglycemia after 14 days of treatment. 
+AE-10169,Adverse Event Report: Lisinopril & Dizziness,Lisinopril,Dizziness,Patient taking Lisinopril reported Dizziness after 1 days of treatment. 
+AE-10170,Adverse Event Report: Warfarin & Nausea,Warfarin,Nausea,Patient taking Warfarin reported Nausea after 11 days of treatment. 
+AE-10171,Adverse Event Report: Ibuprofen & Coughed up blood,Ibuprofen,Coughed up blood,Patient taking Ibuprofen reported Coughed up blood after 14 days of treatment. 
+AE-10172,Adverse Event Report: Atorvastatin & Rash,Atorvastatin,Rash,Patient taking Atorvastatin reported Rash after 14 days of treatment. 
+AE-10173,Adverse Event Report: Ibuprofen & Nausea,Ibuprofen,Nausea,Patient taking Ibuprofen reported Nausea after 8 days of treatment. 
+AE-10174,Adverse Event Report: Omeprazole & Nausea,Omeprazole,Nausea,Patient taking Omeprazole reported Nausea after 2 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10175,Adverse Event Report: Atorvastatin & Rash,Atorvastatin,Rash,Patient taking Atorvastatin reported Rash after 13 days of treatment. 
+AE-10176,Adverse Event Report: Amoxicillin & Spontaneous bleeding,Amoxicillin,Spontaneous bleeding,Patient taking Amoxicillin reported Spontaneous bleeding after 7 days of treatment. 
+AE-10177,Adverse Event Report: Metformin & Spontaneous bleeding,Metformin,Spontaneous bleeding,Patient taking Metformin reported Spontaneous bleeding after 13 days of treatment. 
+AE-10178,Adverse Event Report: Metformin & Fatigue,Metformin,Fatigue,Patient taking Metformin reported Fatigue after 2 days of treatment. 
+AE-10179,Adverse Event Report: Omeprazole & Nausea,Omeprazole,Nausea,Patient taking Omeprazole reported Nausea after 4 days of treatment. 
+AE-10180,Adverse Event Report: Metformin & Fatigue,Metformin,Fatigue,Patient taking Metformin reported Fatigue after 3 days of treatment. Patient also experienced Coughed up blood.
+AE-10181,Adverse Event Report: Metformin & Spontaneous bleeding,Metformin,Spontaneous bleeding,Patient taking Metformin reported Spontaneous bleeding after 7 days of treatment. 
+AE-10182,Adverse Event Report: Ibuprofen & Dizziness,Ibuprofen,Dizziness,Patient taking Ibuprofen reported Dizziness after 12 days of treatment. 
+AE-10183,Adverse Event Report: Omeprazole & Hypoglycemia,Omeprazole,Hypoglycemia,Patient taking Omeprazole reported Hypoglycemia after 4 days of treatment. 
+AE-10184,Adverse Event Report: Warfarin & Coughed up blood,Warfarin,Coughed up blood,Patient taking Warfarin reported Coughed up blood after 9 days of treatment. 
+AE-10185,Adverse Event Report: Lisinopril & Spontaneous bleeding,Lisinopril,Spontaneous bleeding,Patient taking Lisinopril reported Spontaneous bleeding after 4 days of treatment. Patient also experienced Dizziness.
+AE-10186,Adverse Event Report: Lisinopril & Nausea,Lisinopril,Nausea,Patient taking Lisinopril reported Nausea after 6 days of treatment. 
+AE-10187,Adverse Event Report: Atorvastatin & Fatigue,Atorvastatin,Fatigue,Patient taking Atorvastatin reported Fatigue after 9 days of treatment. 
+AE-10188,Adverse Event Report: Atorvastatin & Dizziness,Atorvastatin,Dizziness,Patient taking Atorvastatin reported Dizziness after 1 days of treatment. 
+AE-10189,Adverse Event Report: Ibuprofen & Nausea,Ibuprofen,Nausea,Patient taking Ibuprofen reported Nausea after 14 days of treatment. 
+AE-10190,Adverse Event Report: Ibuprofen & Dizziness,Ibuprofen,Dizziness,Patient taking Ibuprofen reported Dizziness after 11 days of treatment. 
+AE-10191,Adverse Event Report: Ibuprofen & Dizziness,Ibuprofen,Dizziness,Patient taking Ibuprofen reported Dizziness after 9 days of treatment. 
+AE-10192,Adverse Event Report: Omeprazole & Hypoglycemia,Omeprazole,Hypoglycemia,Patient taking Omeprazole reported Hypoglycemia after 9 days of treatment. 
+AE-10193,Adverse Event Report: Lisinopril & Coughed up blood,Lisinopril,Coughed up blood,Patient taking Lisinopril reported Coughed up blood after 7 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10194,Adverse Event Report: Warfarin & Hypoglycemia,Warfarin,Hypoglycemia,Patient taking Warfarin reported Hypoglycemia after 12 days of treatment. 
+AE-10195,Adverse Event Report: Ibuprofen & Nausea,Ibuprofen,Nausea,Patient taking Ibuprofen reported Nausea after 5 days of treatment. 
+AE-10196,Adverse Event Report: Lisinopril & Hypoglycemia,Lisinopril,Hypoglycemia,Patient taking Lisinopril reported Hypoglycemia after 7 days of treatment. Patient also experienced Dizziness.
+AE-10197,Adverse Event Report: Atorvastatin & Spontaneous bleeding,Atorvastatin,Spontaneous bleeding,Patient taking Atorvastatin reported Spontaneous bleeding after 13 days of treatment. 
+AE-10198,Adverse Event Report: Warfarin & Spontaneous bleeding,Warfarin,Spontaneous bleeding,Patient taking Warfarin reported Spontaneous bleeding after 14 days of treatment. 
+AE-10199,Adverse Event Report: Metformin & Coughed up blood,Metformin,Coughed up blood,Patient taking Metformin reported Coughed up blood after 4 days of treatment. 
+AE-10200,Adverse Event Report: Atorvastatin & Rash,Atorvastatin,Rash,Patient taking Atorvastatin reported Rash after 4 days of treatment. 
+AE-10201,Adverse Event Report: Metformin & Hypoglycemia,Metformin,Hypoglycemia,Patient taking Metformin reported Hypoglycemia after 6 days of treatment. 
+AE-10202,Adverse Event Report: Omeprazole & Rash,Omeprazole,Rash,Patient taking Omeprazole reported Rash after 3 days of treatment. 
+AE-10203,Adverse Event Report: Amoxicillin & Coughed up blood,Amoxicillin,Coughed up blood,Patient taking Amoxicillin reported Coughed up blood after 11 days of treatment. Patient also experienced Dizziness.
+AE-10204,Adverse Event Report: Ibuprofen & Coughed up blood,Ibuprofen,Coughed up blood,Patient taking Ibuprofen reported Coughed up blood after 14 days of treatment. 
+AE-10205,Adverse Event Report: Amoxicillin & Dizziness,Amoxicillin,Dizziness,Patient taking Amoxicillin reported Dizziness after 10 days of treatment. Patient also experienced Hypoglycemia.
+AE-10206,Adverse Event Report: Warfarin & Fatigue,Warfarin,Fatigue,Patient taking Warfarin reported Fatigue after 12 days of treatment. 
+AE-10207,Adverse Event Report: Warfarin & Fatigue,Warfarin,Fatigue,Patient taking Warfarin reported Fatigue after 9 days of treatment. 
+AE-10208,Adverse Event Report: Atorvastatin & Spontaneous bleeding,Atorvastatin,Spontaneous bleeding,Patient taking Atorvastatin reported Spontaneous bleeding after 2 days of treatment. 
+AE-10209,Adverse Event Report: Omeprazole & Fatigue,Omeprazole,Fatigue,Patient taking Omeprazole reported Fatigue after 8 days of treatment. 
+AE-10210,Adverse Event Report: Lisinopril & Spontaneous bleeding,Lisinopril,Spontaneous bleeding,Patient taking Lisinopril reported Spontaneous bleeding after 6 days of treatment. Patient also experienced Nausea.
+AE-10211,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 4 days of treatment. 
+AE-10212,Adverse Event Report: Omeprazole & Fatigue,Omeprazole,Fatigue,Patient taking Omeprazole reported Fatigue after 9 days of treatment. 
+AE-10213,Adverse Event Report: Atorvastatin & Nausea,Atorvastatin,Nausea,Patient taking Atorvastatin reported Nausea after 6 days of treatment. Patient also experienced Dizziness.
+AE-10214,Adverse Event Report: Atorvastatin & Dizziness,Atorvastatin,Dizziness,Patient taking Atorvastatin reported Dizziness after 2 days of treatment. Patient also experienced Rash.
+AE-10215,Adverse Event Report: Metformin & Hypoglycemia,Metformin,Hypoglycemia,Patient taking Metformin reported Hypoglycemia after 5 days of treatment. 
+AE-10216,Adverse Event Report: Warfarin & Nausea,Warfarin,Nausea,Patient taking Warfarin reported Nausea after 10 days of treatment. 
+AE-10217,Adverse Event Report: Atorvastatin & Hypoglycemia,Atorvastatin,Hypoglycemia,Patient taking Atorvastatin reported Hypoglycemia after 1 days of treatment. 
+AE-10218,Adverse Event Report: Ibuprofen & Nausea,Ibuprofen,Nausea,Patient taking Ibuprofen reported Nausea after 10 days of treatment. 
+AE-10219,Adverse Event Report: Amoxicillin & Hypoglycemia,Amoxicillin,Hypoglycemia,Patient taking Amoxicillin reported Hypoglycemia after 5 days of treatment. 
+AE-10220,Adverse Event Report: Ibuprofen & Spontaneous bleeding,Ibuprofen,Spontaneous bleeding,Patient taking Ibuprofen reported Spontaneous bleeding after 11 days of treatment. 
+AE-10221,Adverse Event Report: Ibuprofen & Spontaneous bleeding,Ibuprofen,Spontaneous bleeding,Patient taking Ibuprofen reported Spontaneous bleeding after 9 days of treatment. 
+AE-10222,Adverse Event Report: Warfarin & Coughed up blood,Warfarin,Coughed up blood,Patient taking Warfarin reported Coughed up blood after 8 days of treatment. 
+AE-10223,Adverse Event Report: Lisinopril & Fatigue,Lisinopril,Fatigue,Patient taking Lisinopril reported Fatigue after 4 days of treatment. 
+AE-10224,Adverse Event Report: Omeprazole & Hypoglycemia,Omeprazole,Hypoglycemia,Patient taking Omeprazole reported Hypoglycemia after 11 days of treatment. 
+AE-10225,Adverse Event Report: Ibuprofen & Dizziness,Ibuprofen,Dizziness,Patient taking Ibuprofen reported Dizziness after 8 days of treatment. 
+AE-10226,Adverse Event Report: Ibuprofen & Dizziness,Ibuprofen,Dizziness,Patient taking Ibuprofen reported Dizziness after 6 days of treatment. 
+AE-10227,Adverse Event Report: Amoxicillin & Dizziness,Amoxicillin,Dizziness,Patient taking Amoxicillin reported Dizziness after 14 days of treatment. Patient also experienced Coughed up blood.
+AE-10228,Adverse Event Report: Ibuprofen & Dizziness,Ibuprofen,Dizziness,Patient taking Ibuprofen reported Dizziness after 10 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10229,Adverse Event Report: Omeprazole & Fatigue,Omeprazole,Fatigue,Patient taking Omeprazole reported Fatigue after 4 days of treatment. 
+AE-10230,Adverse Event Report: Amoxicillin & Dizziness,Amoxicillin,Dizziness,Patient taking Amoxicillin reported Dizziness after 12 days of treatment. 
+AE-10231,Adverse Event Report: Warfarin & Rash,Warfarin,Rash,Patient taking Warfarin reported Rash after 10 days of treatment. Patient also experienced Hypoglycemia.
+AE-10232,Adverse Event Report: Warfarin & Hypoglycemia,Warfarin,Hypoglycemia,Patient taking Warfarin reported Hypoglycemia after 2 days of treatment. 
+AE-10233,Adverse Event Report: Amoxicillin & Dizziness,Amoxicillin,Dizziness,Patient taking Amoxicillin reported Dizziness after 9 days of treatment. 
+AE-10234,Adverse Event Report: Lisinopril & Coughed up blood,Lisinopril,Coughed up blood,Patient taking Lisinopril reported Coughed up blood after 2 days of treatment. 
+AE-10235,Adverse Event Report: Omeprazole & Rash,Omeprazole,Rash,Patient taking Omeprazole reported Rash after 14 days of treatment. 
+AE-10236,Adverse Event Report: Warfarin & Coughed up blood,Warfarin,Coughed up blood,Patient taking Warfarin reported Coughed up blood after 2 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10237,Adverse Event Report: Warfarin & Fatigue,Warfarin,Fatigue,Patient taking Warfarin reported Fatigue after 2 days of treatment. 
+AE-10238,Adverse Event Report: Ibuprofen & Nausea,Ibuprofen,Nausea,Patient taking Ibuprofen reported Nausea after 3 days of treatment. 
+AE-10239,Adverse Event Report: Lisinopril & Coughed up blood,Lisinopril,Coughed up blood,Patient taking Lisinopril reported Coughed up blood after 2 days of treatment. 
+AE-10240,Adverse Event Report: Amoxicillin & Hypoglycemia,Amoxicillin,Hypoglycemia,Patient taking Amoxicillin reported Hypoglycemia after 7 days of treatment. 
+AE-10241,Adverse Event Report: Metformin & Rash,Metformin,Rash,Patient taking Metformin reported Rash after 10 days of treatment. Patient also experienced Hypoglycemia.
+AE-10242,Adverse Event Report: Amoxicillin & Rash,Amoxicillin,Rash,Patient taking Amoxicillin reported Rash after 4 days of treatment. 
+AE-10243,Adverse Event Report: Amoxicillin & Hypoglycemia,Amoxicillin,Hypoglycemia,Patient taking Amoxicillin reported Hypoglycemia after 8 days of treatment. Patient also experienced Nausea.
+AE-10244,Adverse Event Report: Metformin & Rash,Metformin,Rash,Patient taking Metformin reported Rash after 3 days of treatment. 
+AE-10245,Adverse Event Report: Omeprazole & Spontaneous bleeding,Omeprazole,Spontaneous bleeding,Patient taking Omeprazole reported Spontaneous bleeding after 6 days of treatment. 
+AE-10246,Adverse Event Report: Lisinopril & Nausea,Lisinopril,Nausea,Patient taking Lisinopril reported Nausea after 7 days of treatment. 
+AE-10247,Adverse Event Report: Lisinopril & Fatigue,Lisinopril,Fatigue,Patient taking Lisinopril reported Fatigue after 13 days of treatment. Patient also experienced Rash.
+AE-10248,Adverse Event Report: Omeprazole & Hypoglycemia,Omeprazole,Hypoglycemia,Patient taking Omeprazole reported Hypoglycemia after 2 days of treatment. 
+AE-10249,Adverse Event Report: Ibuprofen & Coughed up blood,Ibuprofen,Coughed up blood,Patient taking Ibuprofen reported Coughed up blood after 1 days of treatment. Patient also experienced Hypoglycemia.
+AE-10250,Adverse Event Report: Metformin & Hypoglycemia,Metformin,Hypoglycemia,Patient taking Metformin reported Hypoglycemia after 9 days of treatment. 
+AE-10251,Adverse Event Report: Omeprazole & Spontaneous bleeding,Omeprazole,Spontaneous bleeding,Patient taking Omeprazole reported Spontaneous bleeding after 12 days of treatment. 
+AE-10252,Adverse Event Report: Lisinopril & Fatigue,Lisinopril,Fatigue,Patient taking Lisinopril reported Fatigue after 4 days of treatment. 
+AE-10253,Adverse Event Report: Metformin & Coughed up blood,Metformin,Coughed up blood,Patient taking Metformin reported Coughed up blood after 13 days of treatment. 
+AE-10254,Adverse Event Report: Amoxicillin & Rash,Amoxicillin,Rash,Patient taking Amoxicillin reported Rash after 2 days of treatment. Patient also experienced Hypoglycemia.
+AE-10255,Adverse Event Report: Warfarin & Hypoglycemia,Warfarin,Hypoglycemia,Patient taking Warfarin reported Hypoglycemia after 2 days of treatment. Patient also experienced Dizziness.
+AE-10256,Adverse Event Report: Warfarin & Fatigue,Warfarin,Fatigue,Patient taking Warfarin reported Fatigue after 5 days of treatment. 
+AE-10257,Adverse Event Report: Metformin & Hypoglycemia,Metformin,Hypoglycemia,Patient taking Metformin reported Hypoglycemia after 2 days of treatment. 
+AE-10258,Adverse Event Report: Ibuprofen & Dizziness,Ibuprofen,Dizziness,Patient taking Ibuprofen reported Dizziness after 9 days of treatment. 
+AE-10259,Adverse Event Report: Amoxicillin & Dizziness,Amoxicillin,Dizziness,Patient taking Amoxicillin reported Dizziness after 4 days of treatment. 
+AE-10260,Adverse Event Report: Warfarin & Fatigue,Warfarin,Fatigue,Patient taking Warfarin reported Fatigue after 6 days of treatment. 
+AE-10261,Adverse Event Report: Atorvastatin & Nausea,Atorvastatin,Nausea,Patient taking Atorvastatin reported Nausea after 4 days of treatment. Patient also experienced Rash.
+AE-10262,Adverse Event Report: Metformin & Nausea,Metformin,Nausea,Patient taking Metformin reported Nausea after 3 days of treatment. 
+AE-10263,Adverse Event Report: Lisinopril & Hypoglycemia,Lisinopril,Hypoglycemia,Patient taking Lisinopril reported Hypoglycemia after 9 days of treatment. 
+AE-10264,Adverse Event Report: Metformin & Coughed up blood,Metformin,Coughed up blood,Patient taking Metformin reported Coughed up blood after 11 days of treatment. 
+AE-10265,Adverse Event Report: Omeprazole & Rash,Omeprazole,Rash,Patient taking Omeprazole reported Rash after 8 days of treatment. 
+AE-10266,Adverse Event Report: Omeprazole & Coughed up blood,Omeprazole,Coughed up blood,Patient taking Omeprazole reported Coughed up blood after 8 days of treatment. 
+AE-10267,Adverse Event Report: Omeprazole & Fatigue,Omeprazole,Fatigue,Patient taking Omeprazole reported Fatigue after 6 days of treatment. 
+AE-10268,Adverse Event Report: Amoxicillin & Spontaneous bleeding,Amoxicillin,Spontaneous bleeding,Patient taking Amoxicillin reported Spontaneous bleeding after 10 days of treatment. Patient also experienced Dizziness.
+AE-10269,Adverse Event Report: Metformin & Hypoglycemia,Metformin,Hypoglycemia,Patient taking Metformin reported Hypoglycemia after 9 days of treatment. 
+AE-10270,Adverse Event Report: Omeprazole & Spontaneous bleeding,Omeprazole,Spontaneous bleeding,Patient taking Omeprazole reported Spontaneous bleeding after 8 days of treatment. Patient also experienced Fatigue.
+AE-10271,Adverse Event Report: Metformin & Fatigue,Metformin,Fatigue,Patient taking Metformin reported Fatigue after 9 days of treatment. 
+AE-10272,Adverse Event Report: Warfarin & Hypoglycemia,Warfarin,Hypoglycemia,Patient taking Warfarin reported Hypoglycemia after 10 days of treatment. 
+AE-10273,Adverse Event Report: Amoxicillin & Fatigue,Amoxicillin,Fatigue,Patient taking Amoxicillin reported Fatigue after 5 days of treatment. 
+AE-10274,Adverse Event Report: Metformin & Spontaneous bleeding,Metformin,Spontaneous bleeding,Patient taking Metformin reported Spontaneous bleeding after 12 days of treatment. 
+AE-10275,Adverse Event Report: Amoxicillin & Nausea,Amoxicillin,Nausea,Patient taking Amoxicillin reported Nausea after 2 days of treatment. 
+AE-10276,Adverse Event Report: Atorvastatin & Spontaneous bleeding,Atorvastatin,Spontaneous bleeding,Patient taking Atorvastatin reported Spontaneous bleeding after 14 days of treatment. 
+AE-10277,Adverse Event Report: Lisinopril & Dizziness,Lisinopril,Dizziness,Patient taking Lisinopril reported Dizziness after 7 days of treatment. Patient also experienced Hypoglycemia.
+AE-10278,Adverse Event Report: Amoxicillin & Dizziness,Amoxicillin,Dizziness,Patient taking Amoxicillin reported Dizziness after 7 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10279,Adverse Event Report: Warfarin & Hypoglycemia,Warfarin,Hypoglycemia,Patient taking Warfarin reported Hypoglycemia after 1 days of treatment. Patient also experienced Dizziness.
+AE-10280,Adverse Event Report: Metformin & Hypoglycemia,Metformin,Hypoglycemia,Patient taking Metformin reported Hypoglycemia after 9 days of treatment. Patient also experienced Nausea.
+AE-10281,Adverse Event Report: Omeprazole & Nausea,Omeprazole,Nausea,Patient taking Omeprazole reported Nausea after 1 days of treatment. Patient also experienced Dizziness.
+AE-10282,Adverse Event Report: Warfarin & Coughed up blood,Warfarin,Coughed up blood,Patient taking Warfarin reported Coughed up blood after 3 days of treatment. 
+AE-10283,Adverse Event Report: Atorvastatin & Hypoglycemia,Atorvastatin,Hypoglycemia,Patient taking Atorvastatin reported Hypoglycemia after 7 days of treatment. 
+AE-10284,Adverse Event Report: Amoxicillin & Fatigue,Amoxicillin,Fatigue,Patient taking Amoxicillin reported Fatigue after 11 days of treatment. 
+AE-10285,Adverse Event Report: Warfarin & Coughed up blood,Warfarin,Coughed up blood,Patient taking Warfarin reported Coughed up blood after 14 days of treatment. Patient also experienced Fatigue.
+AE-10286,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 13 days of treatment. 
+AE-10287,Adverse Event Report: Warfarin & Fatigue,Warfarin,Fatigue,Patient taking Warfarin reported Fatigue after 8 days of treatment. Patient also experienced Coughed up blood.
+AE-10288,Adverse Event Report: Ibuprofen & Rash,Ibuprofen,Rash,Patient taking Ibuprofen reported Rash after 2 days of treatment. 
+AE-10289,Adverse Event Report: Warfarin & Coughed up blood,Warfarin,Coughed up blood,Patient taking Warfarin reported Coughed up blood after 13 days of treatment. 
+AE-10290,Adverse Event Report: Atorvastatin & Rash,Atorvastatin,Rash,Patient taking Atorvastatin reported Rash after 3 days of treatment. Patient also experienced Fatigue.
+AE-10291,Adverse Event Report: Atorvastatin & Fatigue,Atorvastatin,Fatigue,Patient taking Atorvastatin reported Fatigue after 11 days of treatment. 
+AE-10292,Adverse Event Report: Lisinopril & Spontaneous bleeding,Lisinopril,Spontaneous bleeding,Patient taking Lisinopril reported Spontaneous bleeding after 5 days of treatment. Patient also experienced Coughed up blood.
+AE-10293,Adverse Event Report: Lisinopril & Hypoglycemia,Lisinopril,Hypoglycemia,Patient taking Lisinopril reported Hypoglycemia after 1 days of treatment. 
+AE-10294,Adverse Event Report: Amoxicillin & Coughed up blood,Amoxicillin,Coughed up blood,Patient taking Amoxicillin reported Coughed up blood after 8 days of treatment. 
+AE-10295,Adverse Event Report: Atorvastatin & Rash,Atorvastatin,Rash,Patient taking Atorvastatin reported Rash after 12 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10296,Adverse Event Report: Lisinopril & Fatigue,Lisinopril,Fatigue,Patient taking Lisinopril reported Fatigue after 8 days of treatment. 
+AE-10297,Adverse Event Report: Warfarin & Rash,Warfarin,Rash,Patient taking Warfarin reported Rash after 7 days of treatment. 
+AE-10298,Adverse Event Report: Warfarin & Nausea,Warfarin,Nausea,Patient taking Warfarin reported Nausea after 6 days of treatment. Patient also experienced Dizziness.
+AE-10299,Adverse Event Report: Amoxicillin & Fatigue,Amoxicillin,Fatigue,Patient taking Amoxicillin reported Fatigue after 6 days of treatment. 
+AE-10300,Adverse Event Report: Omeprazole & Fatigue,Omeprazole,Fatigue,Patient taking Omeprazole reported Fatigue after 14 days of treatment. 
+AE-10301,Adverse Event Report: Lisinopril & Nausea,Lisinopril,Nausea,Patient taking Lisinopril reported Nausea after 10 days of treatment. 
+AE-10302,Adverse Event Report: Omeprazole & Spontaneous bleeding,Omeprazole,Spontaneous bleeding,Patient taking Omeprazole reported Spontaneous bleeding after 9 days of treatment. 
+AE-10303,Adverse Event Report: Warfarin & Fatigue,Warfarin,Fatigue,Patient taking Warfarin reported Fatigue after 7 days of treatment. Patient also experienced Rash.
+AE-10304,Adverse Event Report: Atorvastatin & Spontaneous bleeding,Atorvastatin,Spontaneous bleeding,Patient taking Atorvastatin reported Spontaneous bleeding after 14 days of treatment. 
+AE-10305,Adverse Event Report: Lisinopril & Nausea,Lisinopril,Nausea,Patient taking Lisinopril reported Nausea after 7 days of treatment. 
+AE-10306,Adverse Event Report: Atorvastatin & Dizziness,Atorvastatin,Dizziness,Patient taking Atorvastatin reported Dizziness after 10 days of treatment. 
+AE-10307,Adverse Event Report: Atorvastatin & Nausea,Atorvastatin,Nausea,Patient taking Atorvastatin reported Nausea after 14 days of treatment. 
+AE-10308,Adverse Event Report: Metformin & Nausea,Metformin,Nausea,Patient taking Metformin reported Nausea after 9 days of treatment. 
+AE-10309,Adverse Event Report: Ibuprofen & Coughed up blood,Ibuprofen,Coughed up blood,Patient taking Ibuprofen reported Coughed up blood after 7 days of treatment. 
+AE-10310,Adverse Event Report: Amoxicillin & Rash,Amoxicillin,Rash,Patient taking Amoxicillin reported Rash after 3 days of treatment. 
+AE-10311,Adverse Event Report: Amoxicillin & Spontaneous bleeding,Amoxicillin,Spontaneous bleeding,Patient taking Amoxicillin reported Spontaneous bleeding after 2 days of treatment. 
+AE-10312,Adverse Event Report: Ibuprofen & Spontaneous bleeding,Ibuprofen,Spontaneous bleeding,Patient taking Ibuprofen reported Spontaneous bleeding after 7 days of treatment. Patient also experienced Rash.
+AE-10313,Adverse Event Report: Warfarin & Rash,Warfarin,Rash,Patient taking Warfarin reported Rash after 8 days of treatment. Patient also experienced Hypoglycemia.
+AE-10314,Adverse Event Report: Ibuprofen & Coughed up blood,Ibuprofen,Coughed up blood,Patient taking Ibuprofen reported Coughed up blood after 10 days of treatment. Patient also experienced Hypoglycemia.
+AE-10315,Adverse Event Report: Atorvastatin & Coughed up blood,Atorvastatin,Coughed up blood,Patient taking Atorvastatin reported Coughed up blood after 3 days of treatment. 
+AE-10316,Adverse Event Report: Atorvastatin & Spontaneous bleeding,Atorvastatin,Spontaneous bleeding,Patient taking Atorvastatin reported Spontaneous bleeding after 8 days of treatment. 
+AE-10317,Adverse Event Report: Atorvastatin & Nausea,Atorvastatin,Nausea,Patient taking Atorvastatin reported Nausea after 4 days of treatment. Patient also experienced Rash.
+AE-10318,Adverse Event Report: Metformin & Spontaneous bleeding,Metformin,Spontaneous bleeding,Patient taking Metformin reported Spontaneous bleeding after 3 days of treatment. Patient also experienced Dizziness.
+AE-10319,Adverse Event Report: Atorvastatin & Rash,Atorvastatin,Rash,Patient taking Atorvastatin reported Rash after 8 days of treatment. 
+AE-10320,Adverse Event Report: Atorvastatin & Coughed up blood,Atorvastatin,Coughed up blood,Patient taking Atorvastatin reported Coughed up blood after 1 days of treatment. 
+AE-10321,Adverse Event Report: Warfarin & Spontaneous bleeding,Warfarin,Spontaneous bleeding,Patient taking Warfarin reported Spontaneous bleeding after 2 days of treatment. 
+AE-10322,Adverse Event Report: Metformin & Nausea,Metformin,Nausea,Patient taking Metformin reported Nausea after 9 days of treatment. Patient also experienced Hypoglycemia.
+AE-10323,Adverse Event Report: Warfarin & Rash,Warfarin,Rash,Patient taking Warfarin reported Rash after 6 days of treatment. 
+AE-10324,Adverse Event Report: Atorvastatin & Dizziness,Atorvastatin,Dizziness,Patient taking Atorvastatin reported Dizziness after 3 days of treatment. 
+AE-10325,Adverse Event Report: Omeprazole & Dizziness,Omeprazole,Dizziness,Patient taking Omeprazole reported Dizziness after 11 days of treatment. 
+AE-10326,Adverse Event Report: Atorvastatin & Dizziness,Atorvastatin,Dizziness,Patient taking Atorvastatin reported Dizziness after 8 days of treatment. 
+AE-10327,Adverse Event Report: Lisinopril & Dizziness,Lisinopril,Dizziness,Patient taking Lisinopril reported Dizziness after 8 days of treatment. Patient also experienced Nausea.
+AE-10328,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 13 days of treatment. Patient also experienced Fatigue.
+AE-10329,Adverse Event Report: Amoxicillin & Spontaneous bleeding,Amoxicillin,Spontaneous bleeding,Patient taking Amoxicillin reported Spontaneous bleeding after 7 days of treatment. 
+AE-10330,Adverse Event Report: Amoxicillin & Nausea,Amoxicillin,Nausea,Patient taking Amoxicillin reported Nausea after 3 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10331,Adverse Event Report: Ibuprofen & Fatigue,Ibuprofen,Fatigue,Patient taking Ibuprofen reported Fatigue after 8 days of treatment. 
+AE-10332,Adverse Event Report: Omeprazole & Rash,Omeprazole,Rash,Patient taking Omeprazole reported Rash after 12 days of treatment. 
+AE-10333,Adverse Event Report: Lisinopril & Spontaneous bleeding,Lisinopril,Spontaneous bleeding,Patient taking Lisinopril reported Spontaneous bleeding after 14 days of treatment. Patient also experienced Nausea.
+AE-10334,Adverse Event Report: Ibuprofen & Nausea,Ibuprofen,Nausea,Patient taking Ibuprofen reported Nausea after 12 days of treatment. Patient also experienced Dizziness.
+AE-10335,Adverse Event Report: Omeprazole & Nausea,Omeprazole,Nausea,Patient taking Omeprazole reported Nausea after 11 days of treatment. 
+AE-10336,Adverse Event Report: Atorvastatin & Dizziness,Atorvastatin,Dizziness,Patient taking Atorvastatin reported Dizziness after 14 days of treatment. 
+AE-10337,Adverse Event Report: Lisinopril & Dizziness,Lisinopril,Dizziness,Patient taking Lisinopril reported Dizziness after 6 days of treatment. 
+AE-10338,Adverse Event Report: Lisinopril & Coughed up blood,Lisinopril,Coughed up blood,Patient taking Lisinopril reported Coughed up blood after 2 days of treatment. 
+AE-10339,Adverse Event Report: Atorvastatin & Spontaneous bleeding,Atorvastatin,Spontaneous bleeding,Patient taking Atorvastatin reported Spontaneous bleeding after 1 days of treatment. 
+AE-10340,Adverse Event Report: Atorvastatin & Coughed up blood,Atorvastatin,Coughed up blood,Patient taking Atorvastatin reported Coughed up blood after 9 days of treatment. Patient also experienced Dizziness.
+AE-10341,Adverse Event Report: Ibuprofen & Coughed up blood,Ibuprofen,Coughed up blood,Patient taking Ibuprofen reported Coughed up blood after 9 days of treatment. 
+AE-10342,Adverse Event Report: Amoxicillin & Hypoglycemia,Amoxicillin,Hypoglycemia,Patient taking Amoxicillin reported Hypoglycemia after 5 days of treatment. 
+AE-10343,Adverse Event Report: Warfarin & Nausea,Warfarin,Nausea,Patient taking Warfarin reported Nausea after 9 days of treatment. 
+AE-10344,Adverse Event Report: Omeprazole & Nausea,Omeprazole,Nausea,Patient taking Omeprazole reported Nausea after 6 days of treatment. 
+AE-10345,Adverse Event Report: Lisinopril & Nausea,Lisinopril,Nausea,Patient taking Lisinopril reported Nausea after 11 days of treatment. 
+AE-10346,Adverse Event Report: Ibuprofen & Spontaneous bleeding,Ibuprofen,Spontaneous bleeding,Patient taking Ibuprofen reported Spontaneous bleeding after 9 days of treatment. Patient also experienced Hypoglycemia.
+AE-10347,Adverse Event Report: Atorvastatin & Dizziness,Atorvastatin,Dizziness,Patient taking Atorvastatin reported Dizziness after 7 days of treatment. 
+AE-10348,Adverse Event Report: Omeprazole & Spontaneous bleeding,Omeprazole,Spontaneous bleeding,Patient taking Omeprazole reported Spontaneous bleeding after 8 days of treatment. Patient also experienced Nausea.
+AE-10349,Adverse Event Report: Atorvastatin & Rash,Atorvastatin,Rash,Patient taking Atorvastatin reported Rash after 6 days of treatment. 
+AE-10350,Adverse Event Report: Metformin & Hypoglycemia,Metformin,Hypoglycemia,Patient taking Metformin reported Hypoglycemia after 10 days of treatment. Patient also experienced Coughed up blood.
+AE-10351,Adverse Event Report: Atorvastatin & Fatigue,Atorvastatin,Fatigue,Patient taking Atorvastatin reported Fatigue after 8 days of treatment. 
+AE-10352,Adverse Event Report: Atorvastatin & Nausea,Atorvastatin,Nausea,Patient taking Atorvastatin reported Nausea after 1 days of treatment. 
+AE-10353,Adverse Event Report: Omeprazole & Hypoglycemia,Omeprazole,Hypoglycemia,Patient taking Omeprazole reported Hypoglycemia after 9 days of treatment. Patient also experienced Fatigue.
+AE-10354,Adverse Event Report: Atorvastatin & Fatigue,Atorvastatin,Fatigue,Patient taking Atorvastatin reported Fatigue after 3 days of treatment. 
+AE-10355,Adverse Event Report: Ibuprofen & Rash,Ibuprofen,Rash,Patient taking Ibuprofen reported Rash after 5 days of treatment. 
+AE-10356,Adverse Event Report: Amoxicillin & Rash,Amoxicillin,Rash,Patient taking Amoxicillin reported Rash after 3 days of treatment. 
+AE-10357,Adverse Event Report: Amoxicillin & Hypoglycemia,Amoxicillin,Hypoglycemia,Patient taking Amoxicillin reported Hypoglycemia after 8 days of treatment. Patient also experienced Dizziness.
+AE-10358,Adverse Event Report: Warfarin & Fatigue,Warfarin,Fatigue,Patient taking Warfarin reported Fatigue after 6 days of treatment. 
+AE-10359,Adverse Event Report: Lisinopril & Dizziness,Lisinopril,Dizziness,Patient taking Lisinopril reported Dizziness after 8 days of treatment. 
+AE-10360,Adverse Event Report: Omeprazole & Rash,Omeprazole,Rash,Patient taking Omeprazole reported Rash after 4 days of treatment. Patient also experienced Nausea.
+AE-10361,Adverse Event Report: Lisinopril & Dizziness,Lisinopril,Dizziness,Patient taking Lisinopril reported Dizziness after 1 days of treatment. 
+AE-10362,Adverse Event Report: Metformin & Spontaneous bleeding,Metformin,Spontaneous bleeding,Patient taking Metformin reported Spontaneous bleeding after 12 days of treatment. Patient also experienced Fatigue.
+AE-10363,Adverse Event Report: Metformin & Coughed up blood,Metformin,Coughed up blood,Patient taking Metformin reported Coughed up blood after 4 days of treatment. 
+AE-10364,Adverse Event Report: Atorvastatin & Rash,Atorvastatin,Rash,Patient taking Atorvastatin reported Rash after 2 days of treatment. 
+AE-10365,Adverse Event Report: Omeprazole & Coughed up blood,Omeprazole,Coughed up blood,Patient taking Omeprazole reported Coughed up blood after 1 days of treatment. 
+AE-10366,Adverse Event Report: Ibuprofen & Spontaneous bleeding,Ibuprofen,Spontaneous bleeding,Patient taking Ibuprofen reported Spontaneous bleeding after 14 days of treatment. Patient also experienced Fatigue.
+AE-10367,Adverse Event Report: Metformin & Rash,Metformin,Rash,Patient taking Metformin reported Rash after 12 days of treatment. 
+AE-10368,Adverse Event Report: Warfarin & Dizziness,Warfarin,Dizziness,Patient taking Warfarin reported Dizziness after 9 days of treatment. Patient also experienced Hypoglycemia.
+AE-10369,Adverse Event Report: Omeprazole & Coughed up blood,Omeprazole,Coughed up blood,Patient taking Omeprazole reported Coughed up blood after 8 days of treatment. 
+AE-10370,Adverse Event Report: Metformin & Dizziness,Metformin,Dizziness,Patient taking Metformin reported Dizziness after 8 days of treatment. Patient also experienced Rash.
+AE-10371,Adverse Event Report: Ibuprofen & Spontaneous bleeding,Ibuprofen,Spontaneous bleeding,Patient taking Ibuprofen reported Spontaneous bleeding after 14 days of treatment. 
+AE-10372,Adverse Event Report: Amoxicillin & Fatigue,Amoxicillin,Fatigue,Patient taking Amoxicillin reported Fatigue after 7 days of treatment. 
+AE-10373,Adverse Event Report: Warfarin & Hypoglycemia,Warfarin,Hypoglycemia,Patient taking Warfarin reported Hypoglycemia after 13 days of treatment. Patient also experienced Coughed up blood.
+AE-10374,Adverse Event Report: Ibuprofen & Coughed up blood,Ibuprofen,Coughed up blood,Patient taking Ibuprofen reported Coughed up blood after 14 days of treatment. 
+AE-10375,Adverse Event Report: Warfarin & Coughed up blood,Warfarin,Coughed up blood,Patient taking Warfarin reported Coughed up blood after 14 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10376,Adverse Event Report: Amoxicillin & Fatigue,Amoxicillin,Fatigue,Patient taking Amoxicillin reported Fatigue after 14 days of treatment. 
+AE-10377,Adverse Event Report: Metformin & Hypoglycemia,Metformin,Hypoglycemia,Patient taking Metformin reported Hypoglycemia after 12 days of treatment. 
+AE-10378,Adverse Event Report: Warfarin & Hypoglycemia,Warfarin,Hypoglycemia,Patient taking Warfarin reported Hypoglycemia after 3 days of treatment. 
+AE-10379,Adverse Event Report: Lisinopril & Nausea,Lisinopril,Nausea,Patient taking Lisinopril reported Nausea after 3 days of treatment. 
+AE-10380,Adverse Event Report: Lisinopril & Nausea,Lisinopril,Nausea,Patient taking Lisinopril reported Nausea after 7 days of treatment. 
+AE-10381,Adverse Event Report: Atorvastatin & Coughed up blood,Atorvastatin,Coughed up blood,Patient taking Atorvastatin reported Coughed up blood after 4 days of treatment. Patient also experienced Dizziness.
+AE-10382,Adverse Event Report: Warfarin & Fatigue,Warfarin,Fatigue,Patient taking Warfarin reported Fatigue after 9 days of treatment. Patient also experienced Hypoglycemia.
+AE-10383,Adverse Event Report: Ibuprofen & Dizziness,Ibuprofen,Dizziness,Patient taking Ibuprofen reported Dizziness after 5 days of treatment. 
+AE-10384,Adverse Event Report: Warfarin & Rash,Warfarin,Rash,Patient taking Warfarin reported Rash after 9 days of treatment. 
+AE-10385,Adverse Event Report: Amoxicillin & Fatigue,Amoxicillin,Fatigue,Patient taking Amoxicillin reported Fatigue after 14 days of treatment. 
+AE-10386,Adverse Event Report: Metformin & Rash,Metformin,Rash,Patient taking Metformin reported Rash after 1 days of treatment. Patient also experienced Coughed up blood.
+AE-10387,Adverse Event Report: Lisinopril & Fatigue,Lisinopril,Fatigue,Patient taking Lisinopril reported Fatigue after 5 days of treatment. Patient also experienced Rash.
+AE-10388,Adverse Event Report: Metformin & Coughed up blood,Metformin,Coughed up blood,Patient taking Metformin reported Coughed up blood after 2 days of treatment. Patient also experienced Nausea.
+AE-10389,Adverse Event Report: Metformin & Spontaneous bleeding,Metformin,Spontaneous bleeding,Patient taking Metformin reported Spontaneous bleeding after 12 days of treatment. 
+AE-10390,Adverse Event Report: Metformin & Coughed up blood,Metformin,Coughed up blood,Patient taking Metformin reported Coughed up blood after 8 days of treatment. Patient also experienced Rash.
+AE-10391,Adverse Event Report: Omeprazole & Coughed up blood,Omeprazole,Coughed up blood,Patient taking Omeprazole reported Coughed up blood after 1 days of treatment. 
+AE-10392,Adverse Event Report: Lisinopril & Fatigue,Lisinopril,Fatigue,Patient taking Lisinopril reported Fatigue after 14 days of treatment. 
+AE-10393,Adverse Event Report: Warfarin & Fatigue,Warfarin,Fatigue,Patient taking Warfarin reported Fatigue after 13 days of treatment. 
+AE-10394,Adverse Event Report: Ibuprofen & Nausea,Ibuprofen,Nausea,Patient taking Ibuprofen reported Nausea after 10 days of treatment. 
+AE-10395,Adverse Event Report: Atorvastatin & Spontaneous bleeding,Atorvastatin,Spontaneous bleeding,Patient taking Atorvastatin reported Spontaneous bleeding after 10 days of treatment. 
+AE-10396,Adverse Event Report: Amoxicillin & Fatigue,Amoxicillin,Fatigue,Patient taking Amoxicillin reported Fatigue after 3 days of treatment. Patient also experienced Dizziness.
+AE-10397,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 5 days of treatment. Patient also experienced Nausea.
+AE-10398,Adverse Event Report: Atorvastatin & Nausea,Atorvastatin,Nausea,Patient taking Atorvastatin reported Nausea after 3 days of treatment. Patient also experienced Dizziness.
+AE-10399,Adverse Event Report: Omeprazole & Rash,Omeprazole,Rash,Patient taking Omeprazole reported Rash after 2 days of treatment. 
+AE-10400,Adverse Event Report: Ibuprofen & Spontaneous bleeding,Ibuprofen,Spontaneous bleeding,Patient taking Ibuprofen reported Spontaneous bleeding after 8 days of treatment. Patient also experienced Coughed up blood.
+AE-10401,Adverse Event Report: Warfarin & Nausea,Warfarin,Nausea,Patient taking Warfarin reported Nausea after 1 days of treatment. 
+AE-10402,Adverse Event Report: Lisinopril & Nausea,Lisinopril,Nausea,Patient taking Lisinopril reported Nausea after 13 days of treatment. 
+AE-10403,Adverse Event Report: Amoxicillin & Fatigue,Amoxicillin,Fatigue,Patient taking Amoxicillin reported Fatigue after 6 days of treatment. 
+AE-10404,Adverse Event Report: Omeprazole & Rash,Omeprazole,Rash,Patient taking Omeprazole reported Rash after 5 days of treatment. 
+AE-10405,Adverse Event Report: Ibuprofen & Coughed up blood,Ibuprofen,Coughed up blood,Patient taking Ibuprofen reported Coughed up blood after 7 days of treatment. Patient also experienced Dizziness.
+AE-10406,Adverse Event Report: Atorvastatin & Spontaneous bleeding,Atorvastatin,Spontaneous bleeding,Patient taking Atorvastatin reported Spontaneous bleeding after 6 days of treatment. 
+AE-10407,Adverse Event Report: Amoxicillin & Fatigue,Amoxicillin,Fatigue,Patient taking Amoxicillin reported Fatigue after 12 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10408,Adverse Event Report: Metformin & Nausea,Metformin,Nausea,Patient taking Metformin reported Nausea after 8 days of treatment. Patient also experienced Hypoglycemia.
+AE-10409,Adverse Event Report: Warfarin & Nausea,Warfarin,Nausea,Patient taking Warfarin reported Nausea after 7 days of treatment. 
+AE-10410,Adverse Event Report: Amoxicillin & Fatigue,Amoxicillin,Fatigue,Patient taking Amoxicillin reported Fatigue after 10 days of treatment. Patient also experienced Hypoglycemia.
+AE-10411,Adverse Event Report: Metformin & Rash,Metformin,Rash,Patient taking Metformin reported Rash after 4 days of treatment. Patient also experienced Dizziness.
+AE-10412,Adverse Event Report: Omeprazole & Dizziness,Omeprazole,Dizziness,Patient taking Omeprazole reported Dizziness after 10 days of treatment. 
+AE-10413,Adverse Event Report: Ibuprofen & Hypoglycemia,Ibuprofen,Hypoglycemia,Patient taking Ibuprofen reported Hypoglycemia after 7 days of treatment. 
+AE-10414,Adverse Event Report: Warfarin & Coughed up blood,Warfarin,Coughed up blood,Patient taking Warfarin reported Coughed up blood after 4 days of treatment. 
+AE-10415,Adverse Event Report: Atorvastatin & Rash,Atorvastatin,Rash,Patient taking Atorvastatin reported Rash after 12 days of treatment. 
+AE-10416,Adverse Event Report: Metformin & Nausea,Metformin,Nausea,Patient taking Metformin reported Nausea after 13 days of treatment. 
+AE-10417,Adverse Event Report: Amoxicillin & Rash,Amoxicillin,Rash,Patient taking Amoxicillin reported Rash after 12 days of treatment. 
+AE-10418,Adverse Event Report: Metformin & Hypoglycemia,Metformin,Hypoglycemia,Patient taking Metformin reported Hypoglycemia after 5 days of treatment. 
+AE-10419,Adverse Event Report: Atorvastatin & Nausea,Atorvastatin,Nausea,Patient taking Atorvastatin reported Nausea after 2 days of treatment. 
+AE-10420,Adverse Event Report: Omeprazole & Spontaneous bleeding,Omeprazole,Spontaneous bleeding,Patient taking Omeprazole reported Spontaneous bleeding after 12 days of treatment. 
+AE-10421,Adverse Event Report: Amoxicillin & Coughed up blood,Amoxicillin,Coughed up blood,Patient taking Amoxicillin reported Coughed up blood after 4 days of treatment. 
+AE-10422,Adverse Event Report: Metformin & Spontaneous bleeding,Metformin,Spontaneous bleeding,Patient taking Metformin reported Spontaneous bleeding after 8 days of treatment. Patient also experienced Dizziness.
+AE-10423,Adverse Event Report: Omeprazole & Rash,Omeprazole,Rash,Patient taking Omeprazole reported Rash after 3 days of treatment. 
+AE-10424,Adverse Event Report: Ibuprofen & Coughed up blood,Ibuprofen,Coughed up blood,Patient taking Ibuprofen reported Coughed up blood after 14 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10425,Adverse Event Report: Ibuprofen & Hypoglycemia,Ibuprofen,Hypoglycemia,Patient taking Ibuprofen reported Hypoglycemia after 10 days of treatment. 
+AE-10426,Adverse Event Report: Omeprazole & Dizziness,Omeprazole,Dizziness,Patient taking Omeprazole reported Dizziness after 2 days of treatment. 
+AE-10427,Adverse Event Report: Lisinopril & Nausea,Lisinopril,Nausea,Patient taking Lisinopril reported Nausea after 1 days of treatment. 
+AE-10428,Adverse Event Report: Omeprazole & Nausea,Omeprazole,Nausea,Patient taking Omeprazole reported Nausea after 2 days of treatment. 
+AE-10429,Adverse Event Report: Ibuprofen & Spontaneous bleeding,Ibuprofen,Spontaneous bleeding,Patient taking Ibuprofen reported Spontaneous bleeding after 4 days of treatment. 
+AE-10430,Adverse Event Report: Amoxicillin & Spontaneous bleeding,Amoxicillin,Spontaneous bleeding,Patient taking Amoxicillin reported Spontaneous bleeding after 1 days of treatment. Patient also experienced Rash.
+AE-10431,Adverse Event Report: Lisinopril & Dizziness,Lisinopril,Dizziness,Patient taking Lisinopril reported Dizziness after 1 days of treatment. 
+AE-10432,Adverse Event Report: Amoxicillin & Spontaneous bleeding,Amoxicillin,Spontaneous bleeding,Patient taking Amoxicillin reported Spontaneous bleeding after 2 days of treatment. Patient also experienced Nausea.
+AE-10433,Adverse Event Report: Ibuprofen & Dizziness,Ibuprofen,Dizziness,Patient taking Ibuprofen reported Dizziness after 12 days of treatment. 
+AE-10434,Adverse Event Report: Metformin & Dizziness,Metformin,Dizziness,Patient taking Metformin reported Dizziness after 7 days of treatment. 
+AE-10435,Adverse Event Report: Ibuprofen & Nausea,Ibuprofen,Nausea,Patient taking Ibuprofen reported Nausea after 9 days of treatment. 
+AE-10436,Adverse Event Report: Lisinopril & Spontaneous bleeding,Lisinopril,Spontaneous bleeding,Patient taking Lisinopril reported Spontaneous bleeding after 12 days of treatment. 
+AE-10437,Adverse Event Report: Lisinopril & Coughed up blood,Lisinopril,Coughed up blood,Patient taking Lisinopril reported Coughed up blood after 3 days of treatment. 
+AE-10438,Adverse Event Report: Warfarin & Nausea,Warfarin,Nausea,Patient taking Warfarin reported Nausea after 13 days of treatment. 
+AE-10439,Adverse Event Report: Warfarin & Fatigue,Warfarin,Fatigue,Patient taking Warfarin reported Fatigue after 12 days of treatment. 
+AE-10440,Adverse Event Report: Atorvastatin & Hypoglycemia,Atorvastatin,Hypoglycemia,Patient taking Atorvastatin reported Hypoglycemia after 12 days of treatment. Patient also experienced Dizziness.
+AE-10441,Adverse Event Report: Lisinopril & Nausea,Lisinopril,Nausea,Patient taking Lisinopril reported Nausea after 12 days of treatment. 
+AE-10442,Adverse Event Report: Amoxicillin & Dizziness,Amoxicillin,Dizziness,Patient taking Amoxicillin reported Dizziness after 13 days of treatment. 
+AE-10443,Adverse Event Report: Amoxicillin & Hypoglycemia,Amoxicillin,Hypoglycemia,Patient taking Amoxicillin reported Hypoglycemia after 11 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10444,Adverse Event Report: Metformin & Fatigue,Metformin,Fatigue,Patient taking Metformin reported Fatigue after 5 days of treatment. Patient also experienced Coughed up blood.
+AE-10445,Adverse Event Report: Ibuprofen & Nausea,Ibuprofen,Nausea,Patient taking Ibuprofen reported Nausea after 2 days of treatment. 
+AE-10446,Adverse Event Report: Metformin & Nausea,Metformin,Nausea,Patient taking Metformin reported Nausea after 6 days of treatment. 
+AE-10447,Adverse Event Report: Omeprazole & Fatigue,Omeprazole,Fatigue,Patient taking Omeprazole reported Fatigue after 10 days of treatment. Patient also experienced Coughed up blood.
+AE-10448,Adverse Event Report: Metformin & Fatigue,Metformin,Fatigue,Patient taking Metformin reported Fatigue after 10 days of treatment. Patient also experienced Rash.
+AE-10449,Adverse Event Report: Atorvastatin & Nausea,Atorvastatin,Nausea,Patient taking Atorvastatin reported Nausea after 11 days of treatment. 
+AE-10450,Adverse Event Report: Warfarin & Spontaneous bleeding,Warfarin,Spontaneous bleeding,Patient taking Warfarin reported Spontaneous bleeding after 9 days of treatment. 
+AE-10451,Adverse Event Report: Amoxicillin & Hypoglycemia,Amoxicillin,Hypoglycemia,Patient taking Amoxicillin reported Hypoglycemia after 10 days of treatment. 
+AE-10452,Adverse Event Report: Warfarin & Dizziness,Warfarin,Dizziness,Patient taking Warfarin reported Dizziness after 6 days of treatment. Patient also experienced Coughed up blood.
+AE-10453,Adverse Event Report: Omeprazole & Rash,Omeprazole,Rash,Patient taking Omeprazole reported Rash after 8 days of treatment. Patient also experienced Coughed up blood.
+AE-10454,Adverse Event Report: Lisinopril & Dizziness,Lisinopril,Dizziness,Patient taking Lisinopril reported Dizziness after 4 days of treatment. 
+AE-10455,Adverse Event Report: Amoxicillin & Coughed up blood,Amoxicillin,Coughed up blood,Patient taking Amoxicillin reported Coughed up blood after 13 days of treatment. 
+AE-10456,Adverse Event Report: Atorvastatin & Spontaneous bleeding,Atorvastatin,Spontaneous bleeding,Patient taking Atorvastatin reported Spontaneous bleeding after 6 days of treatment. 
+AE-10457,Adverse Event Report: Warfarin & Spontaneous bleeding,Warfarin,Spontaneous bleeding,Patient taking Warfarin reported Spontaneous bleeding after 6 days of treatment. 
+AE-10458,Adverse Event Report: Atorvastatin & Coughed up blood,Atorvastatin,Coughed up blood,Patient taking Atorvastatin reported Coughed up blood after 5 days of treatment. 
+AE-10459,Adverse Event Report: Ibuprofen & Fatigue,Ibuprofen,Fatigue,Patient taking Ibuprofen reported Fatigue after 3 days of treatment. 
+AE-10460,Adverse Event Report: Metformin & Rash,Metformin,Rash,Patient taking Metformin reported Rash after 11 days of treatment. Patient also experienced Dizziness.
+AE-10461,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 11 days of treatment. 
+AE-10462,Adverse Event Report: Omeprazole & Nausea,Omeprazole,Nausea,Patient taking Omeprazole reported Nausea after 3 days of treatment. Patient also experienced Rash.
+AE-10463,Adverse Event Report: Omeprazole & Fatigue,Omeprazole,Fatigue,Patient taking Omeprazole reported Fatigue after 2 days of treatment. 
+AE-10464,Adverse Event Report: Ibuprofen & Dizziness,Ibuprofen,Dizziness,Patient taking Ibuprofen reported Dizziness after 14 days of treatment. Patient also experienced Nausea.
+AE-10465,Adverse Event Report: Atorvastatin & Fatigue,Atorvastatin,Fatigue,Patient taking Atorvastatin reported Fatigue after 13 days of treatment. Patient also experienced Nausea.
+AE-10466,Adverse Event Report: Omeprazole & Spontaneous bleeding,Omeprazole,Spontaneous bleeding,Patient taking Omeprazole reported Spontaneous bleeding after 12 days of treatment. 
+AE-10467,Adverse Event Report: Warfarin & Coughed up blood,Warfarin,Coughed up blood,Patient taking Warfarin reported Coughed up blood after 9 days of treatment. 
+AE-10468,Adverse Event Report: Amoxicillin & Nausea,Amoxicillin,Nausea,Patient taking Amoxicillin reported Nausea after 2 days of treatment. 
+AE-10469,Adverse Event Report: Amoxicillin & Hypoglycemia,Amoxicillin,Hypoglycemia,Patient taking Amoxicillin reported Hypoglycemia after 3 days of treatment. 
+AE-10470,Adverse Event Report: Lisinopril & Nausea,Lisinopril,Nausea,Patient taking Lisinopril reported Nausea after 13 days of treatment. 
+AE-10471,Adverse Event Report: Atorvastatin & Fatigue,Atorvastatin,Fatigue,Patient taking Atorvastatin reported Fatigue after 4 days of treatment. 
+AE-10472,Adverse Event Report: Amoxicillin & Fatigue,Amoxicillin,Fatigue,Patient taking Amoxicillin reported Fatigue after 9 days of treatment. 
+AE-10473,Adverse Event Report: Amoxicillin & Hypoglycemia,Amoxicillin,Hypoglycemia,Patient taking Amoxicillin reported Hypoglycemia after 13 days of treatment. 
+AE-10474,Adverse Event Report: Atorvastatin & Coughed up blood,Atorvastatin,Coughed up blood,Patient taking Atorvastatin reported Coughed up blood after 8 days of treatment. 
+AE-10475,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 5 days of treatment. 
+AE-10476,Adverse Event Report: Metformin & Spontaneous bleeding,Metformin,Spontaneous bleeding,Patient taking Metformin reported Spontaneous bleeding after 2 days of treatment. 
+AE-10477,Adverse Event Report: Atorvastatin & Coughed up blood,Atorvastatin,Coughed up blood,Patient taking Atorvastatin reported Coughed up blood after 5 days of treatment. 
+AE-10478,Adverse Event Report: Lisinopril & Nausea,Lisinopril,Nausea,Patient taking Lisinopril reported Nausea after 8 days of treatment. 
+AE-10479,Adverse Event Report: Atorvastatin & Rash,Atorvastatin,Rash,Patient taking Atorvastatin reported Rash after 11 days of treatment. 
+AE-10480,Adverse Event Report: Warfarin & Dizziness,Warfarin,Dizziness,Patient taking Warfarin reported Dizziness after 5 days of treatment. 
+AE-10481,Adverse Event Report: Metformin & Dizziness,Metformin,Dizziness,Patient taking Metformin reported Dizziness after 9 days of treatment. Patient also experienced Hypoglycemia.
+AE-10482,Adverse Event Report: Ibuprofen & Rash,Ibuprofen,Rash,Patient taking Ibuprofen reported Rash after 1 days of treatment. 
+AE-10483,Adverse Event Report: Lisinopril & Dizziness,Lisinopril,Dizziness,Patient taking Lisinopril reported Dizziness after 10 days of treatment. Patient also experienced Hypoglycemia.
+AE-10484,Adverse Event Report: Omeprazole & Dizziness,Omeprazole,Dizziness,Patient taking Omeprazole reported Dizziness after 6 days of treatment. 
+AE-10485,Adverse Event Report: Metformin & Hypoglycemia,Metformin,Hypoglycemia,Patient taking Metformin reported Hypoglycemia after 6 days of treatment. 
+AE-10486,Adverse Event Report: Omeprazole & Nausea,Omeprazole,Nausea,Patient taking Omeprazole reported Nausea after 2 days of treatment. Patient also experienced Hypoglycemia.
+AE-10487,Adverse Event Report: Warfarin & Coughed up blood,Warfarin,Coughed up blood,Patient taking Warfarin reported Coughed up blood after 1 days of treatment. 
+AE-10488,Adverse Event Report: Amoxicillin & Hypoglycemia,Amoxicillin,Hypoglycemia,Patient taking Amoxicillin reported Hypoglycemia after 1 days of treatment. 
+AE-10489,Adverse Event Report: Ibuprofen & Coughed up blood,Ibuprofen,Coughed up blood,Patient taking Ibuprofen reported Coughed up blood after 12 days of treatment. 
+AE-10490,Adverse Event Report: Omeprazole & Coughed up blood,Omeprazole,Coughed up blood,Patient taking Omeprazole reported Coughed up blood after 10 days of treatment. 
+AE-10491,Adverse Event Report: Atorvastatin & Rash,Atorvastatin,Rash,Patient taking Atorvastatin reported Rash after 14 days of treatment. Patient also experienced Dizziness.
+AE-10492,Adverse Event Report: Warfarin & Coughed up blood,Warfarin,Coughed up blood,Patient taking Warfarin reported Coughed up blood after 6 days of treatment. Patient also experienced Nausea.
+AE-10493,Adverse Event Report: Amoxicillin & Hypoglycemia,Amoxicillin,Hypoglycemia,Patient taking Amoxicillin reported Hypoglycemia after 6 days of treatment. Patient also experienced Spontaneous bleeding.
+AE-10494,Adverse Event Report: Warfarin & Rash,Warfarin,Rash,Patient taking Warfarin reported Rash after 1 days of treatment. 
+AE-10495,Adverse Event Report: Amoxicillin & Dizziness,Amoxicillin,Dizziness,Patient taking Amoxicillin reported Dizziness after 1 days of treatment. 
+AE-10496,Adverse Event Report: Amoxicillin & Fatigue,Amoxicillin,Fatigue,Patient taking Amoxicillin reported Fatigue after 11 days of treatment. Patient also experienced Dizziness.
+AE-10497,Adverse Event Report: Ibuprofen & Rash,Ibuprofen,Rash,Patient taking Ibuprofen reported Rash after 14 days of treatment. 
+AE-10498,Adverse Event Report: Ibuprofen & Spontaneous bleeding,Ibuprofen,Spontaneous bleeding,Patient taking Ibuprofen reported Spontaneous bleeding after 6 days of treatment. 
+AE-10499,Adverse Event Report: Lisinopril & Rash,Lisinopril,Rash,Patient taking Lisinopril reported Rash after 9 days of treatment. 

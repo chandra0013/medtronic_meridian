@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+:root {
+  --background: #F8F9FA;
+  --foreground: #1B4332;
+  --apex-forest: #1B4332;
+  --apex-mint: #B7E4C7;
+  --apex-mint-light: #D8F3DC;
+  --apex-text-muted: #52796F;
+  --apex-red: #EF4444;
+  --apex-amber: #F59E0B;
+}
+
+@theme {
+  --color-apex-forest: var(--apex-forest);
+  --color-apex-mint: var(--apex-mint);
+  --color-apex-mint-light: var(--apex-mint-light);
+  --color-apex-bg: var(--background);
+  --color-apex-text-muted: var(--apex-text-muted);
+  --color-apex-red: var(--apex-red);
+  --color-apex-amber: var(--apex-amber);
+  
+  --radius-4xl: 40px;
+  
+  --font-sans: "Inter", system-ui, sans-serif;
+  --font-display: "Poppins", system-ui, sans-serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom Utilities */
+.card-shadow {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+}
+
+.pending-stripes {
+  background: repeating-linear-gradient(
+    45deg,
+    #f3f4f6,
+    #f3f4f6 10px,
+    #ffffff 10px,
+    #ffffff 20px
+  );
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.dark-glass {
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
