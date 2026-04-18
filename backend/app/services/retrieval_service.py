@@ -5,91 +5,57 @@ from pathlib import Path
 from typing import Dict, List
 
 import pandas as pd
-try:
-    import chromadb
-    from sentence_transformers import SentenceTransformer
-except ImportError:
-    chromadb = None
-    SentenceTransformer = None
+import numpy as np
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
 from ..config import DATA_DIR
 
-# Global state for vector DB and model
-_CLIENT = None
-_COLLECTION = None
-_MODEL = None
+# Global state for cached TF-IDF model and matrix
+_VECTORIZER = None
+_MATRIX = None
+_DF = None
 
-def _get_model():
-    global _MODEL
-    if _MODEL is None and SentenceTransformer is not None:
-        _MODEL = SentenceTransformer('all-MiniLM-L6-v2')
-    return _MODEL
-
-def _get_collection():
-    global _CLIENT, _COLLECTION
-    if _CLIENT is None and chromadb is not None:
-        # Vercel filesystem is read-only except for /tmp
-        db_path = str(DATA_DIR / "chroma_db")
-        if os.environ.get("VERCEL"):
-            db_path = "/tmp/chroma_db"
-            
-        _CLIENT = chromadb.PersistentClient(path=db_path)
-        try:
-            _COLLECTION = _CLIENT.get_collection("medsense")
-        except Exception:
-            _COLLECTION = _CLIENT.create_collection("medsense")
-            _populate_collection()
-    return _COLLECTION
-
-def _populate_collection():
-    global _COLLECTION
-    path = DATA_DIR / 'drug_signal_knowledge.csv'
-    if not path.exists():
-        return
-    
-    df = pd.read_csv(path)
-    model = _get_model()
-    if model is None:
-        return
+def _initialize_index():
+    global _VECTORIZER, _MATRIX, _DF
+    if _VECTORIZER is None:
+        path = DATA_DIR / 'drug_signal_knowledge.csv'
+        if not path.exists():
+            return
         
-    texts = (df['title'].fillna('') + " " + df['snippet'].fillna('')).tolist()
-    embeddings = model.encode(texts).tolist()
-    ids = [str(i) for i in range(len(texts))]
-    metadatas = df.to_dict(orient='records')
-    
-    _COLLECTION.add(
-        documents=texts,
-        embeddings=embeddings,
-        ids=ids,
-        metadatas=metadatas
-    )
-    print(f"Populated ChromaDB with {len(texts)} documents.")
+        _DF = pd.read_csv(path)
+        texts = (_DF['title'].fillna('') + " " + _DF['snippet'].fillna('')).tolist()
+        
+        _VECTORIZER = TfidfVectorizer(stop_words='english')
+        _MATRIX = _VECTORIZER.fit_transform(texts)
 
 def retrieve_similar_cases(query: str, top_k: int = 3) -> List[Dict[str, str | float]]:
     """
-    Retrieves similar cases using semantic search via ChromaDB.
+    Retrieves similar cases using TF-IDF cosine similarity.
+    Lighter than sentence-transformers for serverless environments.
     """
-    collection = _get_collection()
-    model = _get_model()
+    _initialize_index()
     
-    if collection is None or model is None:
-        # Fallback to empty if libs not installed or error
+    if _VECTORIZER is None or _DF is None:
         return []
 
-    query_embedding = model.encode([query]).tolist()
-    results = collection.query(
-        query_embeddings=query_embedding,
-        n_results=top_k
-    )
-
+    query_vec = _VECTORIZER.transform([query])
+    similarities = cosine_similarity(query_vec, _MATRIX).flatten()
+    
+    # Get top K indices
+    top_indices = np.argsort(similarities)[::-1][:top_k]
+    
     out = []
-    if results['documents']:
-        for i in range(len(results['documents'][0])):
-            meta = results['metadatas'][0][i]
-            out.append({
-                'source_id': str(meta.get('source_id', 'N/A')),
-                'title': str(meta.get('title', 'N/A')),
-                'similarity_score': 1.0 - float(results['distances'][0][i]), # Chroma usually returns distances
-                'snippet': str(results['documents'][0][i]),
-            })
+    for idx in top_indices:
+        score = float(similarities[idx])
+        if score <= 0:
+            continue
+            
+        row = _DF.iloc[idx].to_dict()
+        out.append({
+            'source_id': str(row.get('source_id', 'N/A')),
+            'title': str(row.get('title', 'N/A')),
+            'similarity_score': score,
+            'snippet': str(row.get('snippet', 'N/A')),
+        })
     return out
