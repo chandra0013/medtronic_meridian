@@ -3,8 +3,8 @@ from __future__ import annotations
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
-from .config import APP_NAME, APP_VERSION
-from .schemas import (
+from backend.app.config import APP_NAME, APP_VERSION
+from backend.app.schemas import (
     ChatExplainRequest,
     ChatExplainResponse,
     DeviceAnalysisRequest,
@@ -13,9 +13,9 @@ from .schemas import (
     PharmacovigilanceRequest,
     PharmacovigilanceResponse,
 )
-from .services.device_service import analyze_records
-from .services.llm_service import answer_context_question
-from .services.pharmacovigilance_service import analyze_report
+from backend.app.services.device_service import analyze_records
+from backend.app.services.llm_service import answer_context_question
+from backend.app.services.pharmacovigilance_service import analyze_report
 
 app = FastAPI(title=APP_NAME, version=APP_VERSION)
 

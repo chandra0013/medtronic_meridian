@@ -6,7 +6,7 @@ import { Activity, Zap, Cpu, AlertTriangle, ChevronRight, BarChart3, Settings2, 
 import { Button } from "./Button";
 import axios from "axios";
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
 
 const SAMPLE_TELEMETRY = [
   { battery_voltage: 2.8, pulse_amplitude: 3.5, lead_impedance: 550, activity_sensor: 12 },

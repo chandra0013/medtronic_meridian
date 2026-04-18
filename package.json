@@ -1,0 +1,12 @@
+{
+  "name": "medtronic_meridian",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "frontend"
+  ],
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "install-all": "npm install && cd frontend && npm install"
+  }
+}

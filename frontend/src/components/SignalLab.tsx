@@ -6,7 +6,7 @@ import { Pill, Activity, ShieldCheck, AlertCircle, Search, Info, ChevronRight, B
 import { Button } from "./Button";
 import axios from "axios";
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
 
 export function SignalLab() {
   const [report, setReport] = useState("Patient taking Warfarin reported spontaneous bleeding and coughed up blood after 5 days.");
@@ -98,7 +98,7 @@ export function SignalLab() {
               </div>
               <h3 className="text-2xl font-display font-bold text-apex-forest">Awaiting Narrative</h3>
               <p className="text-apex-text-muted max-w-sm mt-2">
-                Input an adverse event report to initiate "Decision Intelligence" signal extraction.
+                Input an adverse event report to initiate &quot;Decision Intelligence&quot; signal extraction.
               </p>
             </motion.div>
           ) : (
@@ -166,7 +166,7 @@ export function SignalLab() {
                           <span className="text-[10px] text-apex-text-muted">ID: {ev.source_id}</span>
                         </div>
                         <p className="text-sm text-apex-text-muted italic leading-relaxed">
-                          "...{ev.snippet}..."
+                          &quot;...{ev.snippet}...&quot;
                         </p>
                       </div>
                     ))}

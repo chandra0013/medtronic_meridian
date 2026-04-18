@@ -28,7 +28,12 @@ def _get_model():
 def _get_collection():
     global _CLIENT, _COLLECTION
     if _CLIENT is None and chromadb is not None:
-        _CLIENT = chromadb.PersistentClient(path=str(DATA_DIR / "chroma_db"))
+        # Vercel filesystem is read-only except for /tmp
+        db_path = str(DATA_DIR / "chroma_db")
+        if os.environ.get("VERCEL"):
+            db_path = "/tmp/chroma_db"
+            
+        _CLIENT = chromadb.PersistentClient(path=db_path)
         try:
             _COLLECTION = _CLIENT.get_collection("medsense")
         except Exception:
